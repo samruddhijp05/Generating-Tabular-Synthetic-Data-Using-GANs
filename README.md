@@ -1,0 +1,1 @@
+# Generating-Tabular-Synthetic-Data-Using-GANs
